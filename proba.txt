@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 first
 time
+=======
+second
+time
+>>>>>>> b822d439acbf318426f3f55aeaf039cfb724f77f
